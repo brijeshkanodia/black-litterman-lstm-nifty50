@@ -51,7 +51,6 @@ This project integrates the Black-Litterman (BL) model with LSTM-based return fo
 
 <p align="center">
   <img src="plots/cumulative_returns_plot.png" alt="Cumulative Returns" width="600"/>
-  <img src="plots/drawdowns_plot.png" alt="Drawdowns" width="600"/>
 </p>
 
 ---
