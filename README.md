@@ -1,5 +1,18 @@
-# black-litterman-lstm-nifty50
+# Black-Litterman LSTM-NIFTY50  
 LSTM-enhanced Black-Litterman model using NIFTY 50 stocks
+
+---
+
+## 📦 Installation
+
+1. Clone the repository and install the required packages:
+   ```bash
+   git clone https://github.com/brijeshkanodia/black-litterman-lstm-nifty50.git
+   cd black-litterman-lstm-nifty50
+   pip install -r requirements.txt
+
+
+
 # Black-Litterman Portfolio Optimization Enhanced with LSTM Forecasts on NIFTY 50
 
 ## Overview
