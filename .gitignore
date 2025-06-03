@@ -1,1 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# MacOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Model Weights / Data (optional if big)
+*.h5
+*.ckpt
+
+# System-specific
+Thumbs.db
 
