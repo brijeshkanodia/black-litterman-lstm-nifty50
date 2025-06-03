@@ -43,5 +43,3 @@ This project integrates the Black-Litterman (BL) model with LSTM-based return fo
 
 ---
 
-##  Repository Structure
-
